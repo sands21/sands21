@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sands21&label=Profile%20views&color=0e75b6&style=flat" alt="sands21" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **ML** and **Javascript**
 
 - 📫 How to reach me **impladimpla@gmail.com**
 
