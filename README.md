@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **impladimpla@gmail.com**
 
-- ⚡ Fun fact **I love playing around with custom roms**
+- ⚡ Fun fact **I like playing around with custom roms**
 
 
 <h3 align="left">Connect with me:</h3>
