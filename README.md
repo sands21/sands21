@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajarshi</h1>
-<h3 align="center">An android developer</h3><br>
+<h3 align="center">A full stack android and web developer</h3><br>
 
 - 🔭 I’m currently working on **Flutter** and **Native Android**
 
