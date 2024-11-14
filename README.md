@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything related to tech**
 
-- 📫 How to reach me **impladimpla@gmail.com**
+- 📫 How to reach me **sandilya.rajarshi@gmail.com**
 
 - ⚡ Fun fact **I like playing around with custom roms**
 
