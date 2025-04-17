@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajarshi</h1>
 <h3 align="center">A full stack android and web developer</h3><br>
 
-- 🔭 I’m currently working on **Flutter** and **Next.js**
+- 🔭 I’m currently working on **Next.js** and **Typescript**
 
-- 🌱 I’m currently learning **ML/AI**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **projects related to Android or Web**
 
