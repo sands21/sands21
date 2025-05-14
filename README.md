@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js** and **Typescript**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on **projects related to Android or Web**
 
