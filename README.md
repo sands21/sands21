@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js** and **Typescript**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **projects related to Android or Web**
 
