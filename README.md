@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **projects related to Android or Web**
+- 👯 I’m looking to collaborate on **anything related to web dev**
 
 - 💬 Ask me about **anything related to tech**
 
 - 📫 How to reach me **sandilya.rajarshi@gmail.com**
 
-- ⚡ Fun fact **I like playing around with custom roms**
+- ⚡ Fun fact **I like playing around with LLMs**
 
 
 <h3 align="left">Connect with me:</h3>
